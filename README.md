@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Swagatika 
+### Hi there 👋, I'm Swagatika 
 ##### I am recent college graduate and a full stack software developer.👩‍💻I am passionate about learning new tech.
 ##### As a software developer I love crafting meaningful application that are scalable and efficient while providing engaging user experiences🌈.
 
