@@ -1,8 +1,9 @@
 ### Hi there 👋, my name is Swagatika 
 #### I am a Full stack web developer
-          I am Swagatika Panda a recent college graduate and a full stack software developer.👩‍💻
+          I am recent college graduate and a full stack software developer.👩‍💻
           I am passionate about learning new tech and working on stuff that challenges me.
-          As a software developer I love crafting meaningful application that are scalable and efficient while providing engaging user experiences🌈.
+          As a software developer I love crafting meaningful application that are scalable
+          and efficient while providing engaging user experiences🌈.
 
 Skills:  REACT / JS / HTML / CSS / NODEJS
 
