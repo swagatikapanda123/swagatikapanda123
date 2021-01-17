@@ -4,6 +4,8 @@
 
 #### 🔭 My current tech stack MERN
 #### 🌱 I’m currently learning Developing Cloud Applications with Node.js and React
+#### 👯 I’m looking to collaborate on Full Stack Web Developemt
+
 <!--
 **swagatikapanda123/swagatikapanda123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
