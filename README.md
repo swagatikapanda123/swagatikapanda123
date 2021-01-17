@@ -5,8 +5,7 @@
 #### 🔭 My current tech stack MERN
 #### 🌱 I’m currently learning Developing Cloud Applications with Node.js and React
 #### 👯 I’m looking to collaborate on Full Stack Web Developemt
-(https://github-readme-stats.vercel.app/api?username=swagatikapanda123)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=swagatikapanda123)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **swagatikapanda123/swagatikapanda123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
