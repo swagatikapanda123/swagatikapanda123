@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **swagatikapanda164@gmail.com**
 
-- ⚡ Fun fact **not a fun fact but I can't survive without music.**
+- ⚡ Fun fact: **Tony Stark has a suit for every occasion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
