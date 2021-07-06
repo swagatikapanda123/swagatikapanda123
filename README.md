@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Swagatika Panda</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A full stack developer</h3>
 
-- 🔭 I’m currently working on **Mern Application**
+- 🔭 I’m currently working on **MERN Application**
 
-- 💬 Ask me about **react, express, nodejs**
+- 💬 Ask me about **Programming, MCU and formula 1**
 
 - 📫 How to reach me **swagatikapanda164@gmail.com**
 
-- ⚡ Fun fact: **Tony Stark has a suit for every occasion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
