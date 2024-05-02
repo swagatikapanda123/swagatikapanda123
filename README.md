@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swagatika Panda</h1>
 <h3 align="center">A full stack developer</h3>
 
-- 🔭 I’m currently working on **MERN Application**
-
-- 💬 Ask me about **Programming, MCU and formula 1**
-
-- 📫 How to reach me **swagatikapanda164@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
